@@ -27,3 +27,4 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts 
+insurewise-64ae7-firebase-adminsdk-fbsvc-d81565f400.json
